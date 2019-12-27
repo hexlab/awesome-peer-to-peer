@@ -20,9 +20,9 @@ Implementations:
 
 
 ##### BitTorrent clients
-BitTorrent
-uTorrent
-Deluge
+* BitTorrent
+* uTorrent
+* Deluge: [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge is a BitTorrent client that utilizes a daemon/client model
 
 
 ## Cryptocurrencies
