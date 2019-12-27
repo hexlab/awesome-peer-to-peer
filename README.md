@@ -20,9 +20,10 @@ Implementations:
 
 
 ##### BitTorrent clients
-* BitTorrent
-* uTorrent
-* Deluge: [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge is a BitTorrent client that utilizes a daemon/client model
+* qBittorrent [https://github.com/qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (C++/Qt)
+* Deluge: [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge is a BitTorrent client that utilizes a daemon/client model (Python)
+
+##### BitTorrent trackers
 
 
 ## Cryptocurrencies
