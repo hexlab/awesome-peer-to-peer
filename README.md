@@ -40,9 +40,10 @@ Web Real-Time Communication (WebRTC) is protocol that provides web browsers and 
 ### Tox
 * Tox: [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - the future of online communications.
 * tox-rs: [tox-rs/tox](https://github.com/tox-rs/tox) - toxcore implementation in Rust
-* qTox: [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol (C++/Qt).
+* qTox: [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client (C++/Qt).
 * uTox: [uTox/uTox/](https://github.com/uTox/uTox/) - µTox the lightest and fluffiest Tox client (C/GTK).
 * toxic: [Jfreegman/toxic](https://github.com/Jfreegman/toxic) - an ncurses-based Tox client.
+* Antox: [Antox/Antox](https://github.com/Antox/Antox) - Android client for Project Tox - Secure Peer to Peer Messaging.
 
 ## Cryptocurrencies
 * Bitcoin
