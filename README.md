@@ -46,5 +46,14 @@ Web Real-Time Communication (WebRTC) is protocol that provides web browsers and 
 * Antox: [Antox/Antox](https://github.com/Antox/Antox) - Android client for Project Tox - Secure Peer to Peer Messaging.
 
 ## Cryptocurrencies
-* Bitcoin
 
+### Bitcoin
+* Bitcoin: [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
+* BitcoinJS: [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - a javascript Bitcoin library for node.js and browsers. 
+
+#### Tutorials and books
+* Mastering Bitcoin 2nd Edition - Programming the Open Blockchain: [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+
+### Ethereum
+* Go Ethereum: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - official Golang implementation of the Ethereum protocol.
+* Parity Ethereum: [paritytech/parity-ethereum](https://github.com/paritytech/parity-ethereum) - the fast, light, and robust EVM and WASM client.
