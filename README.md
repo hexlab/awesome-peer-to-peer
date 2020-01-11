@@ -45,6 +45,9 @@ Web Real-Time Communication (WebRTC) is protocol that provides web browsers and 
 * toxic: [Jfreegman/toxic](https://github.com/Jfreegman/toxic) - an ncurses-based Tox client.
 * Antox: [Antox/Antox](https://github.com/Antox/Antox) - Android client for Project Tox - Secure Peer to Peer Messaging.
 
+## File Sharing
+* Syncthing [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
 ## Cryptocurrencies
 
 ### Bitcoin
