@@ -45,8 +45,10 @@ Web Real-Time Communication (WebRTC) is protocol that provides web browsers and 
 * toxic: [Jfreegman/toxic](https://github.com/Jfreegman/toxic) - an ncurses-based Tox client.
 * Antox: [Antox/Antox](https://github.com/Antox/Antox) - Android client for Project Tox - Secure Peer to Peer Messaging.
 
-## File Sharing
-* Syncthing [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+## File Synchronization
+* Syncthing: [syncthing/syncthing](https://github.com/syncthing/syncthing) - open source continuous file synchronization (Go).
+* rsync: [rsync](https://git.samba.org/?p=rsync.git) - rsync is an open source utility that provides fast incremental file transfer (C).
+* Rclone: [rclone/rclone](https://github.com/rclone/rclone) - rsync for cloud storage (Go).
 
 ## Cryptocurrencies
 
